@@ -33,9 +33,7 @@ Enedis is one of the founding members:
 ## 👊🏻 Our Projects  <a id="Ourproject"></a>
 Our Open Source projects and contributions include the following (with more on their ways !) :
 
-{% for repository in Enedis-OSS.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
+<!-- ORG_REPOS -->
 
 ## 🤲 How to contribute <a id="Howtocontribute"></a>
 
