@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-<img src=""https://github.com/Enedis-OSS/.github/blob/main/profile/Images%20ReadMe/gitenedislogo.png" align="center"
-     alt="" width="290" height="240">
+<img src="https://github.com/Enedis-OSS/.github/blob/main/profile/Images%20ReadMe/gitenedislogo.png" align="center"
+     alt="Enedis-OSS" width="290" height="240">
 </h1>
-<h1 align="center"> Enedis-OSS </h1>
+<h1 align="center">Enedis-OSS</h1>
 
 
 
@@ -33,7 +33,7 @@ Enedis is one of the founding members:
 ## 👊🏻 Our Projects  <a id="Ourproject"></a>
 Our Open Source projects and contributions include the following (with more on their ways !) :
 
-- of [**mocha-xray-reporter**](https://github.com/Enedis-OSS/mocha-xray-reporter), librairie permettant de récupérer les résultats de tests Cypress pour automatiquement créer des PV de recette Xray. Le principal avantage étant qu’elle fait le lien entre recetteurs et développeurs en remontant automatiquement les screenshots Cypress en preuves Xray.
+- [**mocha-xray-reporter**](https://github.com/Enedis-OSS/mocha-xray-reporter), librairie permettant de récupérer les résultats de tests Cypress pour automatiquement créer des PV de recette Xray. Le principal avantage étant qu’elle fait le lien entre recetteurs et développeurs en remontant automatiquement les screenshots Cypress en preuves Xray.
 
 ## 🤲 How to contribute <a id="Howtocontribute"></a>
 
