@@ -53,10 +53,6 @@ DSI-OSCOE-ENEDIS in enedis.fr
 </h1>
 
 <h1 align="center">
-<img src="https://github.com/Enedis-OSS/.github/blob/main/profile/Images%20ReadMe/enedislogo.png" align="center"
+<img src="./Images%20ReadMe/enedislogo.png" align="center"
      alt="" width="260" height="60">
 </h1>
-
-
-
-
