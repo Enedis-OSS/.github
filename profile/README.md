@@ -37,7 +37,7 @@ Our Open Source projects and contributions include the following (with more on t
 
 ## 🤲 How to contribute <a id="Howtocontribute"></a>
 
-To understand how you can contribute, the guidelines you sould follow and the process for submitting you contributions, checkout the CONTRIBUTING.md file.
+To understand how you can contribute, the guidelines you sould follow and the process for submitting you contributions, checkout the [**CONTRIBUTING.md file.**](https://github.com/Enedis-OSS/.github/blob/main/profile/CONTRIBUTING.md)
 
 ## 📧 Contact <a id="Contact"></a>
 DSI-OSCOE-ENEDIS in enedis.fr
