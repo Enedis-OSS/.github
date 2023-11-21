@@ -49,8 +49,3 @@ DSI-OSCOE-ENEDIS in enedis.fr
 [![balise](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/enedis)
 [![balise](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EnedisOfficiel)
 </h1>
-
-<h1 align="center">
-<img src="https://github.com/Enedis-OSS/.github/blob/main/profile/Images%20ReadMe/enedislogo.png" align="center"
-     alt="" width="260" height="60">
-</h1>
