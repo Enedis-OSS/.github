@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 <img src="https://github.com/Enedis-OSS/.github/blob/main/profile/Images%20ReadMe/enedislogo.png" align="center"
-     alt="" width="290" height="240">
+     alt="" width="340" height="240">
 </h1>
 <h1 align="center"> Enedis-OSS </h1>
 
