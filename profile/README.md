@@ -30,6 +30,8 @@ Enedis is one of the founding members:
 - of [**TOSIT**](https://tosit.fr/), an associative structure that supports Open Source. Its aim is to promote the development of code, software, and IT solutions under open source and/or free licenses, particularly in the field of cybersecurity.  
 - of [**Hermine**](https://gitlab.com/hermine-project/hermine), a legal compliance software.
 
+Feel free to take a look at our colleagues' [**EDF GitHub organisation!**](https://github.com/groupe-edf). 
+
 ## 👊🏻 Our Projects  <a id="Ourproject"></a>
 Our Open Source projects and contributions include the following (with more on their ways !) :
 
