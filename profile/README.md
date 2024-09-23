@@ -35,7 +35,7 @@ Feel free to take a look at our colleagues' [**EDF GitHub organisation!**](https
 ## 👊🏻 Our Projects  <a id="Ourproject"></a>
 Our Open Source projects and contributions include the following (with more on their ways !) :
 
-- [**mocha-xray-reporter**](https://github.com/Enedis-OSS/mocha-xray-reporter), librairie permettant de récupérer les résultats de tests Cypress pour automatiquement créer des PV de recette Xray. Le principal avantage étant qu’elle fait le lien entre recetteurs et développeurs en remontant automatiquement les screenshots Cypress en preuves Xray.
+- [**mocha-xray-reporter**](https://github.com/Enedis-OSS/mocha-xray-reporter), is a library that retrieves Cypress test results to automatically generate Xray test execution reports. Its primary advantage is that it bridges the gap between testers and developers by automatically uploading Cypress screenshots as evidence to Xray.
 
 ## 🤲 How to contribute <a id="Howtocontribute"></a>
 
