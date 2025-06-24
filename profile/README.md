@@ -36,7 +36,8 @@ Feel free to take a look at our colleagues' [**EDF GitHub organisation!**](https
 Our Open Source projects and contributions include the following (with more on their ways !) :
 
 - [**mocha-xray-reporter**](https://github.com/Enedis-OSS/mocha-xray-reporter), generate a xray compatible report from Cypress tests. It can be usefull for Acceptance Testing by automatically adding screenshots to the report as proofs.
-- [**Chutney**](https://github.com/Enedis-OSS/chutney) stands out for its simple and flexible approach to integration test automation, focusing on complex scenarios and end-to-end testing.
+- [**chutney**](https://github.com/Enedis-OSS/chutney) stands out for its simple and flexible approach to integration test automation, focusing on complex scenarios and end-to-end testing.
+- [**grafana-dsl**](https://github.com/Enedis-OSS/grafana-dsl) is a Kotlin-based domain-specific language designed to simplify and automate the creation of Grafana dashboards as code, enabling teams to manage observability assets more efficiently and consistently.
 
 ## 🤲 How to contribute <a id="Howtocontribute"></a>
 
