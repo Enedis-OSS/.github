@@ -38,7 +38,8 @@ Our Open Source projects and contributions include the following (with more on t
 - [**mocha-xray-reporter**](https://github.com/Enedis-OSS/mocha-xray-reporter), generate a xray compatible report from Cypress tests. It can be usefull for Acceptance Testing by automatically adding screenshots to the report as proofs.
 - [**chutney**](https://github.com/Enedis-OSS/chutney) stands out for its simple and flexible approach to integration test automation, focusing on complex scenarios and end-to-end testing.
 - [**grafana-dsl**](https://github.com/Enedis-OSS/grafana-dsl) is a Kotlin-based domain-specific language designed to simplify and automate the creation of Grafana dashboards as code, enabling teams to manage observability assets more efficiently and consistently.
-
+- [**tic4eebus**](https://github.com/Enedis-OSS/tic4eebus) is used as a energy management system (referred as EnergyGuard in EEBUS documentation) using Linky customer interface (known as Télé Information Client or TIC) as metering source to control electrical vehicle charge through a wallbox (i.e the EEBUS interface).
+  
 ## 🤲 How to contribute <a id="Howtocontribute"></a>
 
 To understand how you can contribute, the guidelines you sould follow and the process for submitting you contributions, checkout the [**CONTRIBUTING.md file.**](https://github.com/Enedis-OSS/.github/blob/main/profile/CONTRIBUTING.md)
