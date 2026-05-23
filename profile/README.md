@@ -3,7 +3,6 @@
 <img src="https://github.com/Enedis-OSS/.github/blob/main/profile/Images%20ReadMe/enedislogo.png" align="center"
      alt="Enedis-OSS" width="320" height="240">
 </h1>
-<h1 align="center">Enedis-OSS</h1>
 
 # ⚡ Enedis Open Source Software (Enedis-OSS)
 
